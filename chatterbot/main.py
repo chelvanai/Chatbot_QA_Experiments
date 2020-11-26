@@ -9,6 +9,6 @@ trainer.train(
    "./ai.yml"
 )
 
-response = chatbot.get_response('What are the flavors of soaps available?')
+response = chatbot.get_response('Are you sapient?')
 
 print(response)
